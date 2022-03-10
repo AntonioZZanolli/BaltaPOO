@@ -1,0 +1,13 @@
+C:\wamp64\www\ProjetosAntonio\Balta\bin\Debug\netcoreapp3.1\Balta.exe
+C:\wamp64\www\ProjetosAntonio\Balta\bin\Debug\netcoreapp3.1\Balta.deps.json
+C:\wamp64\www\ProjetosAntonio\Balta\bin\Debug\netcoreapp3.1\Balta.runtimeconfig.json
+C:\wamp64\www\ProjetosAntonio\Balta\bin\Debug\netcoreapp3.1\Balta.runtimeconfig.dev.json
+C:\wamp64\www\ProjetosAntonio\Balta\bin\Debug\netcoreapp3.1\Balta.dll
+C:\wamp64\www\ProjetosAntonio\Balta\bin\Debug\netcoreapp3.1\Balta.pdb
+C:\wamp64\www\ProjetosAntonio\Balta\obj\Debug\netcoreapp3.1\Balta.csprojAssemblyReference.cache
+C:\wamp64\www\ProjetosAntonio\Balta\obj\Debug\netcoreapp3.1\Balta.AssemblyInfoInputs.cache
+C:\wamp64\www\ProjetosAntonio\Balta\obj\Debug\netcoreapp3.1\Balta.AssemblyInfo.cs
+C:\wamp64\www\ProjetosAntonio\Balta\obj\Debug\netcoreapp3.1\Balta.csproj.CoreCompileInputs.cache
+C:\wamp64\www\ProjetosAntonio\Balta\obj\Debug\netcoreapp3.1\Balta.dll
+C:\wamp64\www\ProjetosAntonio\Balta\obj\Debug\netcoreapp3.1\Balta.pdb
+C:\wamp64\www\ProjetosAntonio\Balta\obj\Debug\netcoreapp3.1\Balta.genruntimeconfig.cache
