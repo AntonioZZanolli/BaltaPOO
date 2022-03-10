@@ -1,3 +1,5 @@
+using Balta.ContentContext.Enums;
+
 namespace Balta.ContentContext
 {
     public class Lecture
