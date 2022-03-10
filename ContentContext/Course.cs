@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using Balta.ContentContext.Enums;
 
 namespace Balta.ContentContext
 {
@@ -10,22 +11,7 @@ namespace Balta.ContentContext
         }
         public string Tag { get; set; }
         public IList<Module> Modules { get; set; }
-    }
-
-    public class Module
-    {
-        public Module()
-        {
-            Lectures = new List<Lecture>();
-        }
-        public int Order { get; set; }
-        public string Title { get; set; }
-        public IList<Lecture> Lectures { get; set; }
-    }
-
-    public class Lecture
-    {
-        public int Ordem { get; set; }
-        public string Title { get; set; }
+        public int DurationInMinutes { get; set; }
+        public EContentLevel Level { get; set; }
     }
 }
